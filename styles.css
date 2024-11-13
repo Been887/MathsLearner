@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(231, 231, 231);
+
+    padding: 0;
+    border: 0;
+    top: 0;
+    left: 0;
+}
+
+a {
+    color: rgb(67, 149, 255);
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.banner img {
+    top: 0;
+    left: 0;
+    padding: 0;
+    border: 0;
+
+    width: 100%;
+    height: auto;
+}
+
+body h1 {
+    font-size: 65px;
+    font-family: monospace;
+    font-weight: bold;
+    text-align: center
+}
+
+.downloads img {
+    padding: 10px;
+    border: 0px;
+
+    width: 20%;
+    height: auto;
+}
+
+.BlankLink a {
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0);
+}
+
+.text {
+    font-size: 20px;
+    font-family: sans-serif;
+}
